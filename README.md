@@ -1,0 +1,1 @@
+VirtualBox and Vagrant together allow you to manage and ship isolated development environments. 
